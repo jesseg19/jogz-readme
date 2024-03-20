@@ -1,2 +1,5 @@
-# jogz-readme
-This is just the public readme for jogz
+# jogz privacy policy
+This is privacy our privacy policy
+
+# Delete account request
+Email: jesse.gross@mygeorgian.ca to have account deleted
